@@ -1,6 +1,6 @@
 ﻿# Mac Logger
 <p align="center">
-  <img width="600" height="600" src="https://user-images.githubusercontent.com/73078814/169968797-8e91e83d-0322-44df-b5e9-23e17cc2c55c.png">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/73078814/169968797-8e91e83d-0322-44df-b5e9-23e17cc2c55c.png">
 </p>
 
 
