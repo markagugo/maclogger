@@ -1,5 +1,6 @@
 ﻿# Mac Logger
-![macloggericon](https://user-images.githubusercontent.com/73078814/169966865-0be1fdfa-d458-460e-a9c0-0558fb795bdf.png)
+![macloggericon1](https://user-images.githubusercontent.com/73078814/169968797-8e91e83d-0322-44df-b5e9-23e17cc2c55c.png)
+
 
 # Installation
 
