@@ -6,7 +6,16 @@
 
 # Project Description
 <h4>
-<b>
+ <p><b>MACLOGGER</b> is a tool created by Mark Agugo used to generate a .exe keylogger file. This tool is only supported on only windows OS fow now. After going through the usage of this program, you have to social engineer the target to install the .exe file generated and when he does it captures all the target keystrokes and report them to your firebase database after n number of seconds.</p>
+  <br />
+    <i>
+      This program will only till the target shuts down his computer.
+    </i>
+  <br />
+  <h4>
+    More features and updates will be added to this program as time goes on.
+    Feel free to contribute.
+  </h4>  
 </h4>
 
 # Installation
